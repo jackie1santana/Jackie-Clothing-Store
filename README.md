@@ -10,5 +10,8 @@
 ---
 
 ### How to run app:
+- Run an npm insall in the terminal 
+- npm run start
 - Open browser to `http://localhost:3000/`
 
+Deployed with Cloudflare
